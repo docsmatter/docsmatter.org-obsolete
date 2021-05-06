@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "About Me"
+description: "my little story"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -11,28 +11,46 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-          
-          
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  content : "Being a senior high school student, I noticed that I have the so-called “language gene” and could learn languages faster and better than the others (at least in my class). So, I decided to go for it and spent
+much of my spare time studying English and German.
+
+I further developed my language skills during my studies in different language-related areas at a
+pedagogical university. I am particularly proud that I achieved the highest score in each of my final
+exams.
+
+In my senior year at university, I started learning about computer science, first by building a simple
+website and then taking a course in the BASIC programming language. After graduating from the
+university, I decided to combine both “worlds” (languages and computer science) and apply for a PhD
+in computational linguistics. When working on my PhD thesis, I used a wide range of linguistic and
+computer research methods to explore how linguistic knowledge could be applied to automatic speech
+recognition.
+
+After getting my PhD, I looked for a job where I could apply my knowledge and skills from both fields. I
+was lucky enough to find a job as a technical writer at a software company that developed different
+virtualization products for Linux, Mac, and Windows.
+
+When I started my work, I had no idea about Linux, open-source software, and technical writing. I set
+the goal to become an expert in these areas and worked hard to achieve this goal. I taught myself
+Linux basics, mastered the command line after a while, completed the Technical Writing Certification,
+and was soon promoted to a Senior Technical Writer. I was responsible for the whole documentation
+suite for virtualization software running on both Linux and bare-metal servers. Here I also got involved
+with my first open-source project – OpenVZ – contributing to its wiki and man pages."
 
   button:
     enable : true
-    label : "Download Company Profile"
+    label : "Download My Resume"
     link : "#"
 
   funfacts:
   # funfacts loop
   - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Completed Projects"
-    count : "349"
+    name : "Modern Writing"
+    count : "Docs Like Hugo"
     
   # funfacts loop
   - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Lines Of Code"
-    count : "35000"
+    name : "Static Site Generators"
+    count : "Hugo & Jekyll"
     
   # funfacts loop
   - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -41,18 +59,8 @@ about:
     
   # funfacts loop
   - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
+    name : "API Documentation"
     count : "10"
-    
-  # funfacts loop
-  - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Satisfied Customer"
-    count : "75"
-    
-  # funfacts loop
-  - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
-    count : "20"
     
 ################################ feature #####################################
 features:
@@ -61,32 +69,32 @@ features:
   feature_item:
   # feature item loop
   - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "IOS App Development"
+    name : "Docs like code techniques"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "App Secutity"
+    name : "Git and GitHub"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Games Development"
+    name : "Documentation websites"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Animation and Editing"
+    name : "Static site generators"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "UI/UX Design"
+    name : "Markdown & co"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Branding"
+    name : "Why not XMl"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
   
 
@@ -99,37 +107,16 @@ mission_vision:
   enable : true
   tabs:
   # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Docs Like Code"
+    content : "Docs like code ..."
     
   # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Open Source"
+    content : "Open Source ..."
     
   # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Static Site Generators"
+    content : "Static site generators ..."
 
 
 ############################# call to action #################################
