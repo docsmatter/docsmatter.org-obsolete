@@ -41,7 +41,7 @@ logo = "images/logo.png"
 logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "DocsMatter"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 
@@ -178,7 +178,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 [DocsMatter](https://www.docsmatter.org). All Rights Reserved."
 
 # Main menu
 [[languages.en.menu.main]]
