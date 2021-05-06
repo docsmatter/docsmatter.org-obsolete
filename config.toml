@@ -41,7 +41,7 @@ logo = "images/logo.png"
 logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "DocsMatter"
+author = "DocsMatter & Co."
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 
