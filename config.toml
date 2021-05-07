@@ -192,11 +192,6 @@ URL = "about"
 weight = 2
 
 [[languages.en.menu.main]]
-name = "Project"
-URL = "project"
-weight = 3
-
-[[languages.en.menu.main]]
 name = "Blog"
 URL = "blog"
 weight = 4
