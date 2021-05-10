@@ -1,7 +1,7 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "http://examplesite.org"
-title = "DocsMatter | Everything about modern documentation"
+baseURL = "https://www.docsmatter.org/"
+title = "DocsMatter | Modern documentation and why it matters"
 theme = "airspace-hugo"
 # Number of posts per page in list view
 paginate = "4"
@@ -53,11 +53,9 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = ""
 email = "docsmatter@yahoo.com"
 location = """
-**DocsMatter**  
-Germany
+Germany, Baden-Württemberg
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
@@ -77,8 +75,8 @@ success_image = "images/paper-plane.svg"
 [params.gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "48.960205"
+map_longitude = "10.133038"
 map_marker = "images/marker.png"
 
 
@@ -100,32 +98,6 @@ expire_days = 2
 enable = true
 # counter.dev username, see https://counter.dev/setup.html
 username = ""
-
-
-################################# Social Media ################################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
 
 
 ################################# Plugins #####################################
@@ -178,7 +150,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [DocsMatter](https://www.docsmatter.org). All Rights Reserved."
+copyright = "Copyright &copy; 2021 [DocsMatter](https://www.docsmatter.org). All rights reserved."
 
 # Main menu
 [[languages.en.menu.main]]
@@ -187,68 +159,33 @@ URL = "/"
 weight = 1
 
 [[languages.en.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 3
+
+[[languages.en.menu.main]]
 name = "About"
 URL = "about"
 weight = 2
 
 [[languages.en.menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
-
-[[languages.en.menu.main]]
-weight = 5
-name = "More"
-hasChildren = true
-
-  [[languages.en.menu.main]]
-  parent = "More"
-  name = "FAQ"
-  URL = "faq"
-
-  [[languages.en.menu.main]]
-  parent = "More"
-  name = "Pricing"
-  URL = "pricing"
-
-  [[languages.en.menu.main]]
-  parent = "More"
-  name = "Service"
-  URL = "service"
-
-[[languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 4
 
 # Footer menu
 [[languages.en.menu.footer]]
 name = "About"
 URL = "about"
-weight = 1
-
-[[languages.en.menu.footer]]
-name = "Project"
-URL = "project"
 weight = 2
-
-[[languages.en.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
 
 [[languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 3
 
+
+[[languages.en.menu.footer]]
+name = "Blog"
+URL = "/"
+weight = 1
