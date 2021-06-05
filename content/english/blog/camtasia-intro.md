@@ -48,4 +48,4 @@ The material in this course is given in the sequence that is usually used when c
 
 If necessary, you can skip some of the steps above (for example, if you already have Camtasia installed or have already a recorded screencast) and go directly to the chapter you are interested in.
 
-You can also use the book as a reference when creating your own projects, referring to one or another chapter that describes how to work with the re-quired functions.
+You can also use the book as a reference when creating your own projects, referring to one or another chapter that describes how to work with the required functions.

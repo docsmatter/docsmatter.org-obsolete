@@ -1,9 +1,24 @@
 // Put custom SCSS rules in this file
 // Documentation: https://sass-lang.com/documentation
-.post .post-content p {
-    line-height: 22px;
+.post {
+	.post-content {
+		p {
+			line-height: 22px;
+		}
+		ul {
+			font-size: 15px;
+			padding: 10px 10px;
+			font-family: roboto,sans-serif;
+			list-style: square;
+			color: #7b7b7b;
+		}
+	}
 }
-
-.post-excerpt p {
-    margin: 0 0 15px;
+.post-excerpt {
+	p {
+		margin: 0 0 10px;
+	}
+}
+li {
+	margin-top: 6px;
 }
