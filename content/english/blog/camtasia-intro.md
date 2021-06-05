@@ -18,39 +18,34 @@ Camtasia is designed for recording videos from your monitor screen and editing t
 
 Camtasia records all mouse and keyboard actions on the screen. If necessary, you can also record your webcam and voice.
 
-![Camtasia Recording Window](images/blog/camtasia-recording-window.png)
+![Camtasia Recording Window](/images/blog/camtasia-recording-window.png)
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+You can edit recorded videos by adding various visual and sound effects to them. Once you are done with editing, the videos can be exported in various formats (MP4, AVI, MOV, etc.) or uploaded directly to your YouTube channel.
 
+![Exporting video to different formats](/images/blog/exporting-to-different-formats.png)
 
-* hello
-* hello
-* hello
-* hello
-* hello
+## What you'll need
 
-1. hello
-2. hello
-3. hello
-4. hello
+To perform the exercises described in the subsequent posts, you will need:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+* **Computer** with Windows 10. For more information about system versions, see the manufacturer’s website.
+* **Camtasia** 2021. All the examples in the book are made in Camtasia for Windows 2021. If you are using another version of the program, some of the described features may differ from the features available in your version of the program. The following chapter provides details on how to download the program from the TechSmith website and install it on your computer.
+* **Microphone for voice recording**. We are going to make a video with voiceover, i.e. to accompany the actions performed on the monitor screen with voice comments. To record the voice, you can use a built-in microphone (such as a microphone in your laptop) or an external microphone. As a rule, built-in microphones are mostly used for communication on the Internet and do not provide proper sound quality. To create high-quality videos, it is recommended to use an external microphone.
+* **Prior knowledge**. We assume that you have experience with the Microsoft Windows operating system, that is, you know how to run programs, save files, and perform other basic operations. Experience with Camtasia or other video editors is not required.
+
+## What you'll get
+
+To get familiar with the Camtasia basic features, we will create a video (screencast) describing how to use the Microsoft Edge browser. As we go through the material, we will edit the video, add various effects to it, and then export it to a special video format that can be viewed on your local computer or uploaded to various video hosting sites (such as YouTube).
+
+## Course structure
+
+The material in this course is given in the sequence that is usually used when creating standard projects in Camtasia, and namely:
+
+* Installing and configuring Camtasia
+* Recording and dubbing a screencast
+* Editing the screencast and adding effects to it
+* Exporting the screencast to MP4 format and uploading it to YouTube
+
+If necessary, you can skip some of the steps above (for example, if you already have Camtasia installed or have already a recorded screencast) and go directly to the chapter you are interested in.
+
+You can also use the book as a reference when creating your own projects, referring to one or another chapter that describes how to work with the re-quired functions.

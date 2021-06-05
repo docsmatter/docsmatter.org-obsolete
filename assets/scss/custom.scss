@@ -1,2 +1,9 @@
 // Put custom SCSS rules in this file
 // Documentation: https://sass-lang.com/documentation
+.post .post-content p {
+    line-height: 22px;
+}
+
+.post-excerpt p {
+    margin: 0 0 15px;
+}
