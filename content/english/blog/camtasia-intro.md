@@ -1,32 +1,24 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
-image : "images/blog/blog-post-1.jpg"
+title: "Camtasia 2020: Introduction"
+date: 2021-05-21T11:07:10+06:00
+author: Vladimir Likhanov
+image : "images/blog/camtasia-intro.png"
 bg_image: "images/feature-bg.jpg"
 categories: ["Company News"]
-tags: ["Advice","Technology"]
-description: "this is meta description"
+tags: ["Camtasia","Video Editing"]
+description: "Introduction to using Camtasia"
 draft: false
 type: "post"
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+> This post opens a series of blog posts dedicated to TechSmith Camtasia 2021, one of the most popular screen recorders and video editors.
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+Camtasia is designed for recording videos from your monitor screen and editing the recorded videos. Using this application, you can create interactive clips, online courses, and much more. You can record the whole screen as well as its individual areas.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+Camtasia records all mouse and keyboard actions on the screen. If necessary, you can also record your webcam and voice.
+
+![Camtasia Recording Window](images/blog/camtasia-recording-window.png)
 
 ```
   .blog-classic {
