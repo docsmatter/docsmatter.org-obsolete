@@ -28,15 +28,15 @@ portfolio:
   content: "This website was built using the Hugo static site generator. For storing and delivering the site's static content, Amazon Simple Storage Service (S3) and Amazon CloudFront (CDN) are used.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  The content is created in Markdown, a lightweight markup language that can be written with any plain-text editor. As an editor, we use Visual Studio Code providing support for Markdown text out of the box.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  All source files are stored in a local Git repository.
   "
   button:
     enable: true
-    label: "View Works"
-    link: "project"
+    label: "Read more"
+    link: "blog"
 
 
 ############################# Service ############################
