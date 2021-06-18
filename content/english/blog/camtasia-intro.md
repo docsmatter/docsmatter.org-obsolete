@@ -4,8 +4,8 @@ date: 2021-05-07T11:07:10+06:00
 author: Vladimir Likhanov
 image : "images/blog/camtasia-intro.png"
 bg_image: "images/feature-bg.jpg"
-categories: ["Company News"]
-tags: ["Camtasia","Video Editing"]
+categories: ["Video Editing"]
+tags: ["Camtasia"]
 description: "Introduction to using Camtasia"
 draft: false
 type: "post"
