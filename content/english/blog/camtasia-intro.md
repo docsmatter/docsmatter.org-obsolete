@@ -1,6 +1,6 @@
 ---
 title: "Camtasia 2020: Introduction"
-date: 2021-05-21T11:07:10+06:00
+date: 2021-05-07T11:07:10+06:00
 author: Vladimir Likhanov
 image : "images/blog/camtasia-intro.png"
 bg_image: "images/feature-bg.jpg"
