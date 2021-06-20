@@ -4,8 +4,8 @@ date: 2021-05-12T11:07:10+06:00
 author: [ "Vladimir Likhanov" ]
 image : "images/blog/installing-camtasia.png"
 bg_image: "images/feature-bg.jpg"
-categories: ["Artificial Intelligence"]
-tags: ["Camtasia","Video Editing"]
+categories: ["Video Editing"]
+tags: ["Camtasia"]
 description: "Create beautiful videos"
 draft: false
 type: "post"

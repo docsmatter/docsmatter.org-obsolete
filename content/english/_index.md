@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Discover Our Tutorials"
-    link: "project"
+    link: "blog"
 
 ############################# About #################################
 about:
@@ -28,10 +28,10 @@ portfolio:
   content: "This website was built using the Hugo static site generator. For storing and delivering the site's static content, Amazon Simple Storage Service (S3) and Amazon CloudFront (CDN) are used.
 
 
-  The content is created in Markdown, a lightweight markup language that can be written with any plain-text editor. As an editor, we use Visual Studio Code providing support for Markdown text out of the box.
+  The source content is created in Markdown, a lightweight markup language that can be written with any plain-text editor. As an editor, we use Visual Studio Code providing support for Markdown text out of the box.
 
 
-  All source files are stored in a local Git repository.
+  All source files are stored in a local Git repository. At regular intervals, the content is pushed to a remote repository on GitHub. The repository on GitHub is integrated with Travis CI that takes care of continuous integration and delivery (CI / CD).
   "
   button:
     enable: true
