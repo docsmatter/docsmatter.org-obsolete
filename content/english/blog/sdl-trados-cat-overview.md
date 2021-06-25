@@ -1,5 +1,5 @@
 ---
-title: "CAT tools overview"
+title: "CAT Tools Overview"
 date: 2021-06-06T10:17:19+06:00
 author: Vladimir Likhanov
 image : "images/blog/blog-post-4.jpg"
@@ -30,6 +30,8 @@ I addition to the translation memory, a CAT system usually has the following bui
 * Modules / filters for exchanging data with other programs (e.g., Microsoft Office or XML)
 * Modules for establising a connection with machine translation tools
 * Module for managing translation projects
+
+![Typical structure of a TMS system](/images/blog/sdl-tm-structure.png)
 
 Some of these functions are discussed in more detail in the following posts.
 

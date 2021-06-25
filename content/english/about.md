@@ -34,13 +34,9 @@ After getting my PhD, I looked for a job where I could apply my knowledge and sk
 was lucky enough to find a job as a technical writer at a software company that developed different
 virtualization products for Linux, Mac, and Windows.
 
-
-When I started my work, I had no idea about Linux, open-source software, and technical writing. I set
-the goal to become an expert in these areas and worked hard to achieve this goal. I taught myself
-Linux basics, mastered the command line after a while, completed the Technical Writing Certification,
-and was soon promoted to a Senior Technical Writer. I was responsible for the whole documentation
-suite for virtualization software running on both Linux and bare-metal servers. Here I also got involved
-with my first open-source project – OpenVZ – contributing to its wiki and man pages."
+Looking for new challenges, I moved abroad. In my current job, I’m responsible for creating different
+kinds of documentation for enterprise software: Release Notes, Installation Guides, System Requirements,
+User and Admin manuals, API documentation etc."
 
 
   button:
