@@ -14,6 +14,7 @@ type: "post"
 
 > In this post, we'll take a look at two main components of any CAT system - *translation memory* and *terminology database*.
 
+[**PREVIOUS POST**](/blog/sdl-trados-cat-vs-machine-translation/) **< || >** [**NEXT POST**](/blog/sdl-trados-autosuggest/)
 ## Translation memory
 
 A translation memory is a special database that stores the source text and its translated equivalent. When new texts are translated, the translation memory is checked for identical or similar fragments:
@@ -46,3 +47,5 @@ Listed below are some of the benefits of using terminology databases:
 * Reduced translation costs
 * Recognition of forbidden terms
 * Better perception of translated texts and, as a result, greater customer satisfaction
+
+[**PREVIOUS POST**](/blog/sdl-trados-cat-vs-machine-translation/) **< || >** [**NEXT POST**](/blog/sdl-trados-autosuggest/)

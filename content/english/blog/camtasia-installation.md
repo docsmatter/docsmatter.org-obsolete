@@ -14,6 +14,8 @@ type: "post"
 > This post provides information on installing Camtasia on you local computer. To learn how to activate the
 product, read here.
 
+[**PREVIOUS POST**](/blog/camtasia-intro/)
+
 Camtasia is a commercial software product developed by the TechSmith company. To work with the program, you need
 to buy a license and activate it after installation.
 
@@ -56,3 +58,5 @@ installation, etc. We recommend keeping the default settings. Once you are done,
 
 * The installer closes.
 * In some cases, you may need to reboot the system to complete the installation.
+
+[**PREVIOUS POST**](/blog/camtasia-intro/)

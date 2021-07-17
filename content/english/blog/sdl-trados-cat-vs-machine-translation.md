@@ -15,6 +15,8 @@ type: "post"
 > This post briefly explains the difference between computer-assisted translation (CAT) and machine
 translation (MT), two often confused translation approaches.
 
+[**PREVIOUS POST**](/blog/sdl-trados-history/) **< || >** [**NEXT POST**](/blog/sdl-trados-tm-tb/)
+
 Sometimes the terms **CAT systems** and **MT systems** are used synonymously. However, in fact, this is not the case. Let's try to find out how these systems differ from each other.
 
 ## CAT systems
@@ -41,3 +43,5 @@ MT systems are specialized computer programs that automatically translate texts 
 ![MT system Prompt](/images/blog/prompt-mt-system.png)
 
 The main advantages of machine translation systems are quick access to the system, high translation speed and low cost. The main disadvantage is that the quality of translations is not always high. As a rule, texts translated by MT tools require additional revisions.
+
+[**PREVIOUS POST**](/blog/sdl-trados-history/) **< || >** [**NEXT POST**](/blog/sdl-trados-tm-tb/)
