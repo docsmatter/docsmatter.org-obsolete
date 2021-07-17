@@ -16,6 +16,8 @@ type: "post"
 assisted translations tools (CAT tools) used to quickly and efficiently translated texts from one
 language to another.
 
+[**NEXT POST**](/blog/sdl-trados-cat-overview/)
+
 Step by step using practical examples, you will learn how to perform the following actions:
 
 * Install SDL Trados Studio on your computer.
@@ -50,3 +52,5 @@ This tutorial uses the following formatting:
 
 * The names of buttons, fields, functions are in bold. For example: Click the **Create project** button.
 * Additional information or a note is marked by horizontal lines and a special icon.
+
+[**NEXT POST**](/blog/sdl-trados-cat-overview/)

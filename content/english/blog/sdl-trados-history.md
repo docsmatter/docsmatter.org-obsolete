@@ -15,6 +15,8 @@ type: "post"
 > In this post, we'll take a quick look back in history to learn about the evolution of computer-assisted
 translation (CAT) systems.
 
+[**PREVIOUS POST**](/blog/sdl-trados-cat-overview/) **< || >** [**NEXT POST**](/blog/sdl-trados-cat-vs-machine-translation/)
+
 The beginnings of automated translation systems date back to the 1950s, when the need arose to translate
 large volumes of text. Technology was advancing at a rapid pace, and the productivity of translators was
 no longer up to the demands. Therefore, some companies were trying to find a way to increase productivity by
@@ -49,3 +51,5 @@ As a rule, cloud solutions include a translation memory, a machine translation m
 management module, and some collaborative features for translators to work on a single document. In this case,
 all linguistic resources (translation databases, terminology databases, etc.) are stored in the cloud (on a web
 server), and the necessary infrastructure (hardware and software) is rented.
+
+[**PREVIOUS POST**](/blog/sdl-trados-cat-overview/) **< || >** [**NEXT POST**](/blog/sdl-trados-cat-vs-machine-translation/)

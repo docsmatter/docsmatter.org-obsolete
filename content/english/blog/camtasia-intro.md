@@ -14,6 +14,8 @@ type: "post"
 
 > This post opens a series of blog posts dedicated to TechSmith Camtasia 2021, one of the most popular screen recorders and video editors.
 
+[**NEXT POST**](/blog/camtasia-installation/)
+
 Camtasia is designed for recording videos from your monitor screen and editing the recorded videos. Using this application, you can create interactive clips, online courses, and much more. You can record the whole screen as well as its individual areas.
 
 Camtasia records all mouse and keyboard actions on the screen. If necessary, you can also record your webcam and voice.
@@ -49,3 +51,5 @@ The material in this course is given in the sequence that is usually used when c
 If necessary, you can skip some of the steps above (for example, if you already have Camtasia installed or have already a recorded screencast) and go directly to the chapter you are interested in.
 
 You can also use the book as a reference when creating your own projects, referring to one or another chapter that describes how to work with the required functions.
+
+[**NEXT POST**](/blog/camtasia-installation/)
