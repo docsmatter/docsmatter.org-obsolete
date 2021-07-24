@@ -16,7 +16,7 @@ type: "post"
 you are typing and presenting you with a list of suggested words and phrases you can use in your
 translation.
 
-[**PREVIOUS POST**](/blog/sdl-trados-tm-tb/)
+[**PREVIOUS POST**](/blog/sdl-trados-tm-tb/) **< || >** [**NEXT POST**](/blog/sdl-trados-editions/)
 
 Unlike the translation memory, which stores entire segments, AutoSuggest is based on incomplete
 segments - words or phrases. The principle of AutoSuggest is similar to that of AutoComplete in
@@ -65,4 +65,4 @@ the **Create AutoSuggest Dictionary** button on the **Home** tab of the **Welcom
 
 ![AutoSuggest in SDL Trados Studio - calling the function](/images/blog/sdl-autosuggest-calling-function.png)
 
-[**PREVIOUS POST**](/blog/sdl-trados-tm-tb/)
+[**PREVIOUS POST**](/blog/sdl-trados-tm-tb/) **< || >** [**NEXT POST**](/blog/sdl-trados-editions/)

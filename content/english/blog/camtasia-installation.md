@@ -11,8 +11,7 @@ draft: false
 type: "post"
 ---
 
-> This post provides information on installing Camtasia on you local computer. To learn how to activate the
-product, read here.
+> This post provides information on installing Camtasia on you local computer.
 
 [**PREVIOUS POST**](/blog/camtasia-intro/) **< || >** [**NEXT POST**](/blog/camtasia-activation/)
 
