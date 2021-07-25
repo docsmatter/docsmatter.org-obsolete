@@ -13,7 +13,7 @@ type: "post"
 
 > In this post, you'll learn how to activate your Camtasia installation.
 
-[**PREVIOUS POST**](/blog/camtasia-installation/)
+[**PREVIOUS POST**](/blog/camtasia-installation/) **< || >** [**NEXT POST**](/blog/camtasia-first-start/)
 
 Once Camtasia is installed, the program shortcut is added to the Windows start menu (Start - TechSmith - Camtasia)
 and to the desktop (if you haven't changed the default settings). To start Camtasia, double-click the shortcut or
@@ -71,4 +71,4 @@ of the suggested options or activate the **Other** option.
 * Your account is created.
 * A message is sent to the entered email address with a link to confirm it.
 
-[**PREVIOUS POST**](/blog/camtasia-installation/) 
+[**PREVIOUS POST**](/blog/camtasia-installation/) **< || >** [**NEXT POST**](/blog/camtasia-first-start/)
