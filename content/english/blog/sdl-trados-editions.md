@@ -15,7 +15,7 @@ type: "post"
 > In this post, we'll briefly discuss the different editions of SDL Trados Studio 2021 and
 give some recommendations on which edition to choose.
 
-[**PREVIOUS POST**](/blog/sdl-trados-autosuggest/)
+[**PREVIOUS POST**](/blog/sdl-trados-autosuggest/) **< || >** [**NEXT POST**](/blog/sdl-trados-installation/)
 
 SDL Trados Studio from the British company SDL International is one of the most well-known
 automatic translation systems. The first version of the program was developed by the German
@@ -100,4 +100,4 @@ To work with terminology databases, we will also need to install the SDL MultiTe
 The application is part of the SDL Trados Studio Freelance and SDL Trados Studio Professional
 editions.
 
-[**PREVIOUS POST**](/blog/sdl-trados-autosuggest/)
+[**PREVIOUS POST**](/blog/sdl-trados-autosuggest/) **< || >** [**NEXT POST**](/blog/sdl-trados-installation/)

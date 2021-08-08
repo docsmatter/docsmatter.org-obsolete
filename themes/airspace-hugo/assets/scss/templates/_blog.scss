@@ -77,8 +77,8 @@
     ul {
       font-size: 15px;
       padding-left: 20px;
-      padding-bottom: 0px;
-      padding-top: 0px;
+      padding-bottom: -5px;
+      padding-top: -5px;
       padding-right: 15px;
       font-family: $primary-font;
       list-style: circle;
@@ -86,8 +86,8 @@
     ol {
       font-size: 15px;
       padding-left: 15px;
-      padding-bottom: 0px;
-      padding-top: 0px;
+      padding-bottom: -5px;
+      padding-top: -5px;
       padding-right: 15px;
       font-family: $primary-font;
     }
