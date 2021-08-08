@@ -13,7 +13,7 @@ type: "post"
 
 > In this post, you'll learn how to activate your Camtasia installation.
 
-[**PREVIOUS POST**](/blog/camtasia-activation/)
+[**PREVIOUS POST**](/blog/camtasia-activation/) **< || >** [**NEXT POST**](/blog/camtasia-interface/)
 
 After registering on the TechSmith website / activating the program, the welcome screen opens.
 
@@ -44,4 +44,4 @@ option on the **Help** menu and activating the respecting box in the opened wind
 
 ![Camtasia - entering the license](/images/blog/camtasia-activate-welcome-window.png)
 
-[**PREVIOUS POST**](/blog/camtasia-activation/) 
+[**PREVIOUS POST**](/blog/camtasia-activation/) **< || >** [**NEXT POST**](/blog/camtasia-interface/)

@@ -42,17 +42,15 @@ on your local computer.
 
 ## Installation procedure
 
-First, let's install the SDL Trados Studio application. After you have downloaded the installation
-files, follow these steps to install the application:
+First, let's install the SDL Trados Studio application. Follow these steps:
 
 > **Changing the computer's configuration** <br />
 If after starting the installation you get a message that SDL Trados Studio wants to change the
 computer's configuration, allow the changes by clicking **Yes**.
 
 1. Go to the folder with the SDL Trados Studio installation file (it's usually called
-**SDLTradosStudio20XX_XXX_XXXXXX.exe**) and double-click it.
-
-* The SDL Trados Studio installation wizard is launched.
+**SDLTradosStudio20XX_XXX_XXXXXX.exe**) and double-click it.<br />
+-- The SDL Trados Studio installation wizard is launched.
 
 ![SDL Trados Studio - launching the installation wizard](/images/blog/sdl-launching-installation-wizard.png)
 
@@ -81,6 +79,6 @@ the **Accept** button.
 4. Click the **OK** button.
 
 * The installation wizard closes.
-* SDL Trados Studio can now be started by clicking **Start - SDL Trados Studio 2021 - SDL Trados Studio 2021**.
+* You can now start SDL Trados Studio by clicking **Start - SDL Trados Studio 2021 - SDL Trados Studio 2021**.
 
 [**PREVIOUS POST**](/blog/sdl-trados-editions/)
