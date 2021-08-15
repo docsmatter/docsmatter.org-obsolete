@@ -41,10 +41,10 @@ The Hugo installation files for Windows are usually located at the bottom of thi
 may require the extended Hugo version to function correctly. In this case, you should look for
 the file containing **extended** in its name.
 
-4. Extract the content of the downloaded ZIP file to the C:\Hugo\bin folder. As a rule, the
+4. Extract the content of the downloaded ZIP file to the **C:\Hugo\bin** folder. As a rule, the
 extracted content contains the **hugo.exe** executable file and some additional files.
 
-5. Add the **hugo.exe** executable file to your PATH variable. In this way, Windows will know
+5. Add the **hugo.exe** executable file to your **PATH** variable. In this way, Windows will know
 where to look for this file when you run Hugo-related commands in the command prompt. The
 easiest way to update your PATH variable is run the following command in Windows PowerShell:
 
@@ -67,7 +67,7 @@ new features or fixed bugs. In this case, follow the steps below:
 
 2. Extract the downloaded file to some folder on your computer.
 
-3. Copy the extracted files to the C:\Hugo\bin folder. This should replace your existing Hugo files
+3. Copy the extracted files to the **C:\Hugo\bin** folder. This should replace your existing Hugo files
 with the new ones.
 
 4. Execute this command in the command prompt to make sure that you are now using the updated version
