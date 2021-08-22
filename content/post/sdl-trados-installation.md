@@ -17,7 +17,7 @@ thumbnail = "images/blog/sdl-trados-installation.png"
 > In this post, we'll take a look at the process of installing SDL Trados Studio on your
 computer.
 
-[**PREVIOUS POST**](/post/sdl-trados-editions/)
+[**PREVIOUS POST**](/post/sdl-trados-editions/) **< || >** [**NEXT POST**](/post/sdl-trados-multiterm-installation/)
 
 Once you have decided on which version of SDL Trados Studio you want to use, you need to
 download the installation files. You can use one of the following ways to get the installation files:
@@ -52,7 +52,8 @@ computer's configuration, allow the changes by clicking **Yes**.
 
 1. Go to the folder with the SDL Trados Studio installation file (it's usually called
 **SDLTradosStudio20XX_XXX_XXXXXX.exe**) and double-click it.<br />
--- The SDL Trados Studio installation wizard is launched.
+
+* The SDL Trados Studio installation wizard is launched.
 
 ![SDL Trados Studio - launching the installation wizard](/images/blog/sdl-launching-installation-wizard.png)
 
@@ -83,4 +84,4 @@ the **Accept** button.
 * The installation wizard closes.
 * You can now start SDL Trados Studio by clicking **Start - SDL Trados Studio 2021 - SDL Trados Studio 2021**.
 
-[**PREVIOUS POST**](/post/sdl-trados-editions/)
+[**PREVIOUS POST**](/post/sdl-trados-editions/) **< || >** [**NEXT POST**](/post/sdl-trados-multiterm-installation/)
