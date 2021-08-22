@@ -16,7 +16,7 @@ thumbnail = "images/blog/sdl-multiterm-installation.png"
 
 > This post deals with installing the SDL MultiTerm terminology management system on your computer.
 
-[**PREVIOUS POST**](/post/sdl-trados-installation/)
+[**PREVIOUS POST**](/post/sdl-trados-installation/) **< || >** [**NEXT POST**](/post/sdl-trados-first-start/)
 
 Let's now install the SDL MultiTerm application for managing your terminology databases (also
 referred to as termbases).
@@ -67,4 +67,4 @@ Working with SDL MultiTerm Convert and SDL MultiTerm Widget is not covered in th
 * After a while a message is shown informing you that the installation has been completed successfully.
 * SDL MultiTerm is now available under **Start** - **SDL MultiTerm 2021** - **SDL MultiTerm 2021 Desktop**.
 
-[**PREVIOUS POST**](/post/sdl-trados-installation/)
+[**PREVIOUS POST**](/post/sdl-trados-installation/) **< || >** [**NEXT POST**](/post/sdl-trados-first-start/)
