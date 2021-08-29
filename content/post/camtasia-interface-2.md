@@ -16,7 +16,7 @@ thumbnail = "images/blog/camtasia-interface-bg.png"
 
 > In this post, we continue examining the Camtasia interface.
 
-[**PREVIOUS POST**](/post/camtasia-interface-1/)
+[**PREVIOUS POST**](/post/camtasia-interface-1/) **< || >** [**NEXT POST**](/post/camtasia-preparing-for-recording/)
 
 ## Preview area
 
@@ -82,10 +82,10 @@ the track itself is displayed on a shaded background.
 You can also exclude a track from the preview and the final video by clicking on the **Disable track** button
 above the lock icon.
 
-You can use the playback slider to move quickly through your video. To do this, left-click on the slider and
+Using the playback slider, you can move quickly through your video. To do this, left-click on the slider and
 move it to the desired location on the timeline. To the right of the slider, the frame (time in the video clip)
 in which the slider is currently located is displayed.
 
 ![Camtasia - locked track](/images/blog/camtasia-playback-slider.png)
 
-[**PREVIOUS POST**](/post/camtasia-interface-1/)
+[**PREVIOUS POST**](/post/camtasia-interface-1/) **< || >** [**NEXT POST**](/post/camtasia-preparing-for-recording/)
