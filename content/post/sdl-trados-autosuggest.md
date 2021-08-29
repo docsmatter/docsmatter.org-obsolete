@@ -60,7 +60,7 @@ project.
 ## SDL AutoSuggest Creator
 
 If you are using SDL Trados Studio Freelance or SDL Trados Studio Freelance Plus version, you need to
-purchase an additional module - SDL AutoSuggest Creator to be able to create AutoSuggest dictionaries.
+purchase an additional module - SDL AutoSuggest Creator - to generate AutoSuggest dictionaries.
 SDL Trados Studio Professional Edition owners do not need an additional module - the AutoSuggest dictionary
 creation feature is built into this version. You can call the dictionary creation function by clicking
 the **Create AutoSuggest Dictionary** button on the **Home** tab of the **Welcome** section.

@@ -70,7 +70,7 @@ Do the following:
         ...
 
 > NOTE: You should be interested in the line containing the folllowing entry in the **NAME**
-column - that is, **asciidoctor/docker-asciidoctor**. It should also contain the **OK** value
+column - **asciidoctor/docker-asciidoctor**. It should also contain the **OK** value
 in the **OFFICIAL** column. That means that this image is hosted by the Docker organization.
 
 6. Download the image to your local machine:
