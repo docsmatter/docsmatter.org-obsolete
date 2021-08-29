@@ -56,8 +56,8 @@ plan to add a voiceover narration to the screencast, it is also recommended to i
 of what will be said in the script.
 
 Our screencast will be dedicated to working with the Microsoft Edge browser. To record the screencast,
-we'll use the pre-made script that you can download by following this link (PDF file). You can use this
-script or choose another program for recording and create your own script.
+we'll use the pre-made script that you can download by following this [link](/pdfs/script.pdf) (PDF file).
+You can use this script or choose another program for recording and create your own script.
 
 ## Starting the screen recorder
 
@@ -66,7 +66,7 @@ You can use one of the following ways to start the recorder:
 
 * Click on **TechSmith** - **Camtasia Recorder 2020** in the Windows main menu.
 
-![Camtasia - starting the recorder from the Windows menu](/images/blog/camtasia-starting-recorder-from-Windows-menu.png)
+![Camtasia - starting the recorder from the Windows menu](/images/blog/camtasia-starting-recorder-from-windows-menu.png)
 
 * Click the **New Recording** button in the Camtasia Welcome window. This method is usually used when
 creating a new project.
