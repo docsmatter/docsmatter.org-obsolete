@@ -17,7 +17,7 @@ thumbnail = "images/blog/sdl-trados-first-start.png"
 > In this post, you'll learn about the steps you need to perform when starting SDL Trados
 Studio for the first time after installation.
 
-[**PREVIOUS POST**](/post/sdl-trados-multiterm-installation/)
+[**PREVIOUS POST**](/post/sdl-trados-multiterm-installation/) **< || >** [**NEXT POST**](/post/sdl-trados-interface-1/)
 
 Once SDL Trados Studio is installed, a program shortcut is added to the Windows start menu
 (**Start** - **SDL Trados Studio 2021** - **SDL Trados Studio 2021**) and to the desktop.
@@ -106,4 +106,4 @@ activation can be found on the SDL website.
 The steps described above only need to be performed once. The next time you start the
 program, you will immediately see the **SDL Trados Studio Welcome** screen.
 
-[**PREVIOUS POST**](/post/sdl-trados-multiterm-installation/)
+[**PREVIOUS POST**](/post/sdl-trados-multiterm-installation/) **< || >** [**NEXT POST**](/post/sdl-trados-interface-1/)
