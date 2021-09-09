@@ -29,10 +29,10 @@ In addition to the translation memory, a CAT system usually has the following bu
 * Editor for translating and editing texts
 * Module for integrating terminology databases
 * Tools for checking and evaluating translation quality (e.g., spelling and grammar check)
-* Module for counting words and analysing the translated text
-* Module for comparing source and translated texts and create a new translation memory out of them
-* Modules / filters for exchanging data with other programs (e.g., Microsoft Office or XML)
-* Modules for establising a connection with machine translation tools
+* Module for counting words and analyzing the translated text
+* Module for comparing source and translated texts and creating a new translation memory out of them
+* Modules/filters for exchanging data with other programs (e.g., Microsoft Office)
+* Modules for communicating with machine translation tools
 * Module for managing translation projects
 
 ![Typical structure of a TMS system](/images/blog/sdl-tm-structure.png)
