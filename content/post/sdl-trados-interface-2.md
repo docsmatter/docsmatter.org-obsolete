@@ -16,7 +16,7 @@ thumbnail = "images/blog/sdl-trados-interface-thumbnail.png"
 
 > In this post, we'll continue exploring the SDL Trados Studio interface.
 
-[**PREVIOUS POST**](/post/sdl-trados-interface-1/)
+[**PREVIOUS POST**](/post/sdl-trados-interface-1/) **< || >** [**NEXT POST**](/post/sdl-trados-interface-3/)
 
 ## The **File** menu
 
@@ -115,4 +115,4 @@ If there is still not enough space to work comfortably despite the collapsed nav
 full screen mode by pressing the F11 key. In full-screen mode, some elements are completely hidden (e.g., the
 ribbon with command groups). Pressing the F11 key again exits full screen mode.
 
-[**PREVIOUS POST**](/post/sdl-trados-first-start/)
+[**PREVIOUS POST**](/post/sdl-trados-first-start/) **< || >** [**NEXT POST**](/post/sdl-trados-interface-3/)
