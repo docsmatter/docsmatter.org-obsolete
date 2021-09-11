@@ -14,7 +14,7 @@ series = ["Working with SDL Trados Studio"]
 thumbnail = "images/blog/sdl-trados-interface-thumbnail.png"
 +++
 
-> In this post, we'll continue exploring the SDL Trados Studio interface. Main focus ...
+> In this post, we'll continue exploring the SDL Trados Studio interface.
 
 [**PREVIOUS POST**](/post/sdl-trados-interface-1/)
 
