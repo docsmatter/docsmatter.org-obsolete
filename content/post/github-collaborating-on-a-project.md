@@ -92,3 +92,8 @@ As a rule, your workflow will look like the following:
 5. Pushing the changes to the owner’s repository on GitHub:
 
         ~> git push origin main
+
+6. Creating a pull request on GitHub from the fork.
+
+After that, the owner of the original repository can review and approve your pull request, thus merging your
+changes to the original project.
