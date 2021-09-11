@@ -21,7 +21,7 @@ so-called [fork and pull model](https://en.wikipedia.org/wiki/Fork_and_pull_mode
 
 In the following, we assume that you have successfully performed all preparatory steps:
 
-* Installed and configured Git on you local computer.
+* Installed and configured Git on your local computer.
 * Created an account in GitHub.
 * Set up authentication to GitHub from Git.
 * Checked that you can access the repository you want to collaborate on and that the owner
@@ -47,11 +47,11 @@ To create a fork, click the **Fork** button in the top-right corner of the proje
 
 * Navigate to your fork in GitHub.
 * Click on the green **Code** button.
-* In the opened window, make sure that the **HTTPS** tab is selected and lick on the copy icon.
+* In the opened window, make sure that the **HTTPS** tab is selected and click on the copy icon.
 
 ![Copying the repository URL](/images/blog/github-copying-repository-url.png)
 
-* In Git Bash (or another Git client), go to the directory where you want to clone the repository.
+* In Git Bash (or another Git client), go to the directory to which you want to clone the repository.
 * Enter the following command and press Enter:
 
         ~> git clone https://github.com/[YOUR-USERNAME]/[YOUR-FORK-NAME]
