@@ -35,9 +35,10 @@ The workflow in the fork and pull model includes completing the following steps:
 
 ![Logging in to GitHub](/images/blog/github-login.png)
 
-2. Navigating to the (original) repository you want to collaborate on.
+2. Navigating to the repository you want to collaborate on. This repository is referred to as the
+*original* one.
 
-3. Forking the repository to your user account. By forking, you create a copy of this repository
+3. Forking the original repository to your user account. By forking, you create a copy of this repository
 that you can manage. You can make changes to your fork without affecting the original repository.
 To create a fork, click the **Fork** button in the top-right corner of the project's page.
 
@@ -51,7 +52,8 @@ To create a fork, click the **Fork** button in the top-right corner of the proje
 
 ![Copying the repository URL](/images/blog/github-copying-repository-url.png)
 
-* In Git Bash (or another Git client), go to the directory to which you want to clone the repository.
+* In Git Bash (or another Git client), go to the directory where you want to create the local clone
+of your fork.
 * Enter the following command and press Enter:
 
         ~> git clone https://github.com/[YOUR-USERNAME]/[YOUR-FORK-NAME]
@@ -60,7 +62,7 @@ To create a fork, click the **Fork** button in the top-right corner of the proje
 
         ~> git remote add upstream https://github.com/[REPOSITORY-OWNER-USERNAME]/[ORIGINAL-REPOSITORY-NAME]
 
-6. Check that the remote (*upstream*) repository has been successfully configured for your fork:
+6. Check that the original (*upstream*) repository has been successfully configured for your fork:
 
         ~> git remote -v
         origin  https://github.com/[YOUR-USERNAME]/[YOUR-FORK-NAME] (fetch)
@@ -68,9 +70,11 @@ To create a fork, click the **Fork** button in the top-right corner of the proje
         upstream        https://github.com/[REPOSITORY-OWNER-USERNAME]/[ORIGINAL-REPOSITORY-NAME] (fetch)
         upstream        https://github.com/[REPOSITORY-OWNER-USERNAME]/[ORIGINAL-REPOSITORY-NAME] (push)
 
+The name of the original repository must be specified in both **upstream** fields.
+
 ## Collaborating on the original repository
 
-After you've performed the configuration steps above, you can start collaborating on the original repository.
+Once you've performed the configuration steps above, you can start collaborating on the original repository.
 As a rule, your workflow will look like the following:
 
 1. Checking the upstream branch for updates:
@@ -81,17 +85,17 @@ As a rule, your workflow will look like the following:
 
         ~> git checkout main
 
-3. Merging the changes from the upstream default branch:
+3. Merging the changes from the upstream branch:
 
         ~> git merge upstream/main
 
 4. Making the desired changes to the content (e.g., creating a new blog post).
 
-5. Committing your changes to the local Git repository and then pushing them to 
+5. Committing your changes to the local Git repository.
 
-5. Pushing the changes to the owner’s repository on GitHub:
+5. Pushing the changes to the fork on GitHub:
 
-        ~> git push origin main
+        ~> git push
 
 6. Creating a pull request on GitHub from the fork.
 
