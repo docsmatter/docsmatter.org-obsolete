@@ -17,7 +17,7 @@ thumbnail = "images/blog/camtasia-preparing-for-recording.png"
 > This post walks you through the process of setting everything up for recording a
 screencast.
 
-[**PREVIOUS POST**](/post/camtasia-interface-2/)
+[**PREVIOUS POST**](/post/camtasia-interface-2/) **< || >** [**NEXT POST**](/post/camtasia-preparing-for-recording-2/)
 
 To learn more about the features of Camtasia, we'll create a screencast. A screencast is a
 digital video recording of your monitor screen that can be accompanied by a voice narration.
@@ -78,4 +78,4 @@ when working with an existing project.
 
 ![Camtasia - starting the recorder from the main window](/images/blog/camtasia-starting-recorder-from-main-window.png)
 
-[**PREVIOUS POST**](/post/camtasia-interface-2/)
+[**PREVIOUS POST**](/post/camtasia-interface-2/) **< || >** [**NEXT POST**](/post/camtasia-preparing-for-recording-2/)
