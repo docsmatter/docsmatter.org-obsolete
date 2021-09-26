@@ -17,7 +17,7 @@ thumbnail = "images/blog/camtasia-preparing-for-recording.png"
 > In this post, we continue exploring the process of setting everything up for recording a
 screencast.
 
-[**PREVIOUS POST**](/post/camtasia-preparing-for-recording-2/)
+[**PREVIOUS POST**](/post/camtasia-preparing-for-recording-2/) **< || >** [**NEXT POST**](/post/camtasia-configuring-application/)
 
 ## Settings for configuring the recording devices
 
@@ -105,4 +105,4 @@ To be able to enter the name of the video file manually, do the following:
     * Now, when the recording is finished, a dialog box is displayed where you must enter the file name and the path
     to the destination folder.
 
-[**PREVIOUS POST**](/post/camtasia-preparing-for-recording-2/)
+[**PREVIOUS POST**](/post/camtasia-preparing-for-recording-2/) **< || >** [**NEXT POST**](/post/camtasia-configuring-application/)
