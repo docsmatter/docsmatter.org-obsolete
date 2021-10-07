@@ -16,7 +16,7 @@ thumbnail = "images/blog/camtasia-recording-screencast.png"
 
 > In this post, we'll create a new screencast using the Camtasia application.
 
-[**PREVIOUS POST**](/post/camtasia-configuring-application/)
+[**PREVIOUS POST**](/post/camtasia-configuring-application/) **< || >** [**NEXT POST**](/post/camtasia-creating-and-saving-project/)
 
 Once you have configured all the necessary settings, you can start recording your screencast.
 
@@ -51,4 +51,6 @@ repository. We'll use this repository to work with all the resources of our proj
 
 * The recorded video opens in the main Camtasia window.
 
-[**PREVIOUS POST**](/post/camtasia-configuring-application/)
+![Camtasia - displaying the recorded screencast](/images/blog/camtasia-displaying-recorded-screencast.png)
+
+[**PREVIOUS POST**](/post/camtasia-configuring-application/) **< || >** [**NEXT POST**](/post/camtasia-creating-and-saving-project/)
