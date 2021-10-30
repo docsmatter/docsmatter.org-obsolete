@@ -14,13 +14,12 @@ series = ["Working with Camtasia"]
 thumbnail = "images/blog/camtasia-recording-screencast.png"
 +++
 
-> In this post, we'll start editing our project. We'll explain in detail how to trim the beginning or end of your screencast.
-In this post, you'll learn how to perform one of the fundametal actions in Camtasia - trimm the beginnig and end of your screencast.
+> In this post, you'll learn how to perform one of the fundametal editing actions in Camtasia - trimming a screencast.
 
-[**PREVIOUS POST**](/post/camtasia-creating-and-saving-project/)
+[**PREVIOUS POST**](/post/camtasia-creating-and-saving-project/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-deleting-fragment/)
 
-Once you have saved the screencast, you can start editing it. The editing process is performed in a special module - the editor -
-and can include various steps, such as trimming the beginning or end of your video, cutting out unnecessary fragments, adding effects,
+Once you have saved the screencast, you can start editing it. The editing process is performed in a special module - the editor - and
+can include various steps, such as trimming the beginning or end of your video, cutting out unnecessary fragments, adding effects,
 multimedia materials, etc.
 
 ## Trimming the screencast
@@ -83,4 +82,4 @@ part.
 
 If you are satisfied with the result, save the project by clicking **Save** on the **File** menu.
 
-[**PREVIOUS POST**](/post/camtasia-creating-and-saving-project/)
+[**PREVIOUS POST**](/post/camtasia-creating-and-saving-project/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-deleting-fragment/)
