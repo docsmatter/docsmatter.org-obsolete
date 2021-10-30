@@ -16,7 +16,7 @@ thumbnail = "images/blog/camtasia-recording-screencast.png"
 
 > In this post, we'll set up a project for our screencast and configure the central repository for storing all project resources.
 
-[**PREVIOUS POST**](/post/camtasia-recording-screencast/)
+[**PREVIOUS POST**](/post/camtasia-recording-screencast/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast/)
 
 Before starting to edit your screencast, you need to create a new project and add the screencast to it. Projects in Camtasia are used to
 work with resources. The main project resources include:
@@ -75,4 +75,4 @@ If for some reason the screencast can't be found, a window is shown where you ca
 
 Click the **Yes** button, then go to the **MS-Edge-Tutorial** subfolder in the window that opens and choose your screencast.
 
-[**PREVIOUS POST**](/post/camtasia-recording-screencast/)
+[**PREVIOUS POST**](/post/camtasia-recording-screencast/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast/)
