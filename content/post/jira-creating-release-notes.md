@@ -12,7 +12,7 @@ categories = [
     "Jira",
     "Release Notes",
 ]
-thumbnail = "images/blog/hugo-bg.png"
+thumbnail = "images/blog/jira-bg.png"
 +++
 
 > In this post, we'll describe how to automatically create the release notes using standard Jira functionality.
