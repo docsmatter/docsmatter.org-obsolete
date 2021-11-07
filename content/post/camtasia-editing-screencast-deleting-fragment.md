@@ -14,9 +14,9 @@ series = ["Working with Camtasia"]
 thumbnail = "images/blog/camtasia-recording-screencast.png"
 +++
 
-> In this post, we'll continue editing our screencast. Today, you'll learn how to ...
+> In this post, we'll continue editing our screencast. Today, you'll learn how to remove a fragment from your screencast.
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-trimming/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-trimming/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-adding-logo/)
 
 While recording our screencast, we purposely made a short pause of 3 to 5 seconds after step 3 in the script. Such a pause may
 be necessary, for example, if you want to take a sip of water or if you need to clear your throat.
@@ -59,4 +59,4 @@ When viewing the screencast, that empty space is displayed as a black screen. Th
 the **Delete** option, you should manually glue both parts of the screencast or fill the empty space with some other content
 (e.g., add a slide or another video clip).
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-trimming/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-trimming/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-adding-logo/)
