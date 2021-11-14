@@ -22,10 +22,10 @@ app. If you are interested in creating the release notes using standard Jira fun
 If your company is using the [Release Management](https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud?tab=overview&hosting=cloud)
 app to manage, plan, and control your software releases, you can also use its functionality to generate the release notes out of this app.
 
-The **Release Management** app comes with a special generator that allows you to create release notes using special templates:
+The **Release Management** app comes with a special generator that allows you to create release notes using templates:
 
 * You can use the default templates.
-* If the default templates do not meet your needs, you can customize them, for example, by adding a new columns or fields to them.
+* If the default templates do not meet your needs, you can customize them, for example, by adding a new column or field to them.
 * It's always a good idea to use one of the existing templates as the basis for your new template, but you can also create a new template from scratch, if necessary.
 
 ## Example
@@ -37,7 +37,7 @@ example, you first need to complete these steps in Jira:
 * Create at least one release. In our example, we'll create the release notes for a standard Jira release. Along with standard Jira releases, the **Release Management** app
 allows you to create the so-called virtual versions that can be based on a JQL query or on an Epic.
 
-Once you are done with steps above, do the following:
+Once you are done with the steps above, do the following:
 
 > If you've already configured one or more release boards in the **Release Management** app, you can skip the first three steps.
 
@@ -54,7 +54,7 @@ in the example below).
 
 3. Click on the board name.
 
-* The **Release Management** app opens and you are redirected to the **Versions** tab.
+* The **Release Management** app opens, and you are redirected to the **Versions** tab.
 
 4. Click on the **Release notes** tab.
 
