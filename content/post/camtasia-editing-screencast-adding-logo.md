@@ -16,7 +16,7 @@ thumbnail = "images/blog/camtasia-logo-bg.png"
 
 > This post deals with adding a logo to your screencast.
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-deleting-fragment/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-deleting-fragment/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-editing-track-names/)
 
 You can add a logo to a screencast to indicate its authorship or just to make a strong first impression on your readers.
 As a rule, the logo is small and placed at the bottom or top of the screen without affecting the main content.
@@ -66,4 +66,4 @@ appears around the track on the timeline, release the mouse button.
 
 ![Camtasia - preview area with the added logo](/images/blog/camtasia/camtasia-preview-area-with-added-logo.png)
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-deleting-fragment/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-deleting-fragment/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-editing-track-names/)
