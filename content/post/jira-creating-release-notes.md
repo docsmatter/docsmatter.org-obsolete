@@ -6,7 +6,7 @@ description = "Jira"
 featured = true
 draft = false
 tags = [
-    "Hugo"
+    "Jira"
 ]
 categories = [
     "Jira",
@@ -43,7 +43,7 @@ If you are using the Jira tracking software for managing your projects, you can 
 to automate the process of creating your release notes:
 
 * Use Jira standard functionality
-* Use functionality available in the **Release Management** application
+* Use functionality available in the **Release Management** app (click [here](/post/jira-release-notes-from-release-management-app))
 
 ## Creating release notes - Jira standard functionality
 
