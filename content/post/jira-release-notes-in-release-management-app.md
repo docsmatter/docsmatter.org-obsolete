@@ -22,7 +22,7 @@ app. If you are interested in creating the release notes using standard Jira fun
 If your company is using the [Release Management](https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud?tab=overview&hosting=cloud)
 app to manage, plan, and control your software releases, you can also use its functionality to generate the release notes out of this app.
 
-The **Release Management** app comes with a special generator that allows you to create release notes using templates:
+The **Release Management** app comes with a special generator that allows you to create release notes using special templates:
 
 * You can use the default templates.
 * If the default templates do not meet your needs, you can customize them, for example, by adding a new column or field to them.
