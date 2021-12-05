@@ -16,7 +16,7 @@ thumbnail = "images/blog/camtasia/camtasia-bg.png"
 
 > This post explains how to rename tracks in your screencast.
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-adding-logo/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-adding-logo/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-adding-background-music/)
 
 By default, the tracks in the video clip are automatically named **Track 1**, **Track 2**, etc. To make it more convenient to work with
 the tracks, let's rename them as follows:
@@ -44,4 +44,4 @@ To change the name of a track, follow these steps:
 
 ![Camtasia - new track name](/images/blog/camtasia/camtasia-renamed-track.png)
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-adding-logo/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-adding-logo/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-adding-background-music/)
