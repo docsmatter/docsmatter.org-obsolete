@@ -16,7 +16,7 @@ thumbnail = "images/blog/camtasia/camtasia-audio-bg.png"
 
 > In this post, you'll learn how to add background music to your screencast.
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-renaming-tracks/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-renaming-tracks/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-separating-video-and-audio/)
 
 Most screencasts contain background music that helps you create a certain mood, keep your video interesting, and retain
 the interest of your viewers. Let's add some background music to our screencast as well.
@@ -111,4 +111,4 @@ the music volume, do the following:
 
 6.	Save the project.
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-renaming-tracks/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-renaming-tracks/) **< || >** [**NEXT POST**](/post/camtasia-editing-screencast-separating-video-and-audio/)
