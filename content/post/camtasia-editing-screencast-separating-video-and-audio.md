@@ -11,7 +11,7 @@ categories = [
     "Video Editing",
 ]
 series = ["Working with Camtasia"]
-thumbnail = "images/blog/camtasia/camtasia-audio-bg.png"
+thumbnail = "images/blog/camtasia/camtasia-separating-audio-bg.png"
 +++
 
 > In this post, you'll learn how to add background music to your screencast.
