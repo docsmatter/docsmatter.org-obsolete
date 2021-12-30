@@ -37,7 +37,7 @@ recording or pause it for a while.
 
 4. Count to 5.
 
-5. Record the screencast using our script. For a more convenient recording process, you can use two monitors.
+5. Record the screencast using our script [link](/pdfs/script.pdf) (PDF file). For a more convenient recording process, you can use two monitors.
 On one monitor, you can perform the recording and on the other one, you can open the script text.
 
 6. Once you have finished reading your script text, count to 5 again and click the **Stop button** or press the F10 key
