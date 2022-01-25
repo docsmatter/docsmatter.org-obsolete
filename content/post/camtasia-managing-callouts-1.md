@@ -14,9 +14,9 @@ series = ["Working with Camtasia"]
 thumbnail = "images/blog/camtasia/camtasia-callouts-bg.png"
 +++
 
-> In this post, you'll learn how to add background music to your screencast.
+> In this post, you'll learn how to add callouts to your screencast and adjust them to meet your needs.
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-adding-background-music/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-adding-background-music/) **< || >** [**NEXT POST**](/post/camtasia-managing-callouts-2/)
 
 Sometimes, you may need to draw attention to a specific part of the video or explain some place in it. To do this,
 you can use callouts (different arrows, shapes, speech bubbles, pointers, text boxes, highlights, and so on) available
@@ -71,4 +71,4 @@ bar.
 
 ![Camtasia - preview window resizing the callout](/images/blog/camtasia/camtasia-resizing-callout.png)
 
-[**PREVIOUS POST**](/post/camtasia-editing-screencast-adding-background-music/)
+[**PREVIOUS POST**](/post/camtasia-editing-screencast-adding-background-music/) **< || >** [**NEXT POST**](/post/camtasia-managing-callouts-2/)
