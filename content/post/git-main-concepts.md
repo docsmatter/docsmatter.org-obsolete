@@ -1,9 +1,10 @@
 +++
 author = "Vladimir Likhanov"
-title = "Setting up Git"
-date = "2022-03-07"
+title = "Working with Git - basics"
+date = "2022-03-31"
 description = "Git"
 featured = true
+draft = true
 tags = [
     "Git"
 ]
@@ -13,45 +14,53 @@ categories = [
 thumbnail = "images/blog/git/git-logo.png"
 +++
 
-> This post gets you familiar with the Git version control system. You'll learn
-how to install Git on your computer, verify your installation, and prepare Git for
-managing your content.
+> This post introduces the basic operations you perform when working with Git: initializing a Git repository,
+adding a new file to it, staging and committing your changes to the repository.
 
-Git is an application that allows you to keep track of content, including all changes you make to it
-over time. With Git, you can
+The diagram below demonstrates the basic Git workflow.
 
-* Record the changes, store them in a local or remote repository, and reference
-any stored changes as needed.
+The main steps you usually perform when working with Git are listed below. To learn more about a particular step, click on the corresponding link:
 
-* Go back and forth between versions.
+1. You [create a new file](#creating-file) or modify an existing one in the Git working directory.
 
-* Review the differences between versions.
+2. You add the new / modified file to the Git staging area. The staging area is where you prepare your files for committing to the repository.
 
-* And much more.
+3. You commit the new / modified file to the Git local repository. By performing a commit to the local repository, you save the current state of your files.
 
-Millions of people and companies worldwide build, ship, and maintain their software and other digital
-products using Git, for example:
+4. You push your local changes to a remote repository. It can be GitHub, GitLab, BitBucket, or another Git-specific repository.
 
-* **Software engineers** (developers, architects, etc.). Software developers building products can use Git to save their progress and coordinate their work. They can split the work into different pieces and assign them to various team members. Each member can focus their efforts on a task and share the work through a central repository on GitHub, GitLab, BitBucket, or other repository hosting services.
+## Checking prerequisites
 
-* **Content creators** (technical writers, book authors, etc.). For example, if you follow the philosophy of [storing documents and code together](https://www.writethedocs.org/guide/docs-as-code/), you may want to use text formats (Markdown, AsciiDoc, or reStructuredText) for documentation and store them in a central repository. You and your colleagues can then simply create diffs between different versions (commits) of the text files and check the differences. Once the changes are reviewed and approved, you can release the final document version for use by your organization.
+Before we get started, let's quickly discuss what you'll need to follow along with the steps described in this article. We
+assume the following:
 
-## Overview
+* You've just started working on your new website.
 
-The process of setting up Git includes three main steps:
+* You've decided to use Git when developing the website.
 
-* [Installing Git](#installing-git)
+* You've created a new folder - **my-website** - for storing all website-related files.
 
-* [Verifying the installation](#verifying-installation)
+* You've installed and configured Git on your local computer. If you have not, refer to [Setting up Git](/post/git-introduction)
+to learn how you can install Git before continuing with the steps in this article.
 
-* [Configuring user credentials](#configuring-credentials)
+* If you are on a Windows computer, you use Git Bash to work with Git and perfom Git-related commands.
 
-## <a name="installing-git"></a> Installing Git
+## <a name="creating-file"></a> Creating a Git repository and adding files
 
-First of all, you need to install Git on your local computer. The example below demonstrates
-how to install Git on a Windows computer.
+We'll start with creating (initializing) a new Git repository on our computer. This local repository will store all files for our website.
 
-1. Go to the [https://git-scm.com/downloads](https://git-scm.com/downloads) website.
+1. Change to the **my-website** folder. This folder is known as a working directory. That means that this folder contains all files you are currently working on.
+
+        ~> cd 'C:\my-website'
+
+2. Initialize the repository:
+
+        ~> git init
+        Initialized empty Git repository in C:/my-website/.git/
+
+Now you can create the **index.html** file and add it to your local repository.
+
+1. 
 
 ![Downloading Git for Windows](/images/blog/git/git-downloading-windows-version.png)
 
