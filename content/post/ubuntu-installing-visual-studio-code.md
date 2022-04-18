@@ -13,7 +13,7 @@ categories = [
 thumbnail = "images/blog/linux/ubuntu-logo.png"
 +++
 
-> This post deals with installing the Visual Studio Code (VSC) application, versions 16.04 and higher.
+> This post deals with installing the Visual Studio Code (VSC) application on Ubuntu (versions 16.04 and higher).
 
 Visual Studio Code (VSC) is a modern and very convenient IDE from Microsoft. It has a built-in code debugger,
 version control support, syntax highlighting, and many other features.

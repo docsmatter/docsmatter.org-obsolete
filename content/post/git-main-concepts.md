@@ -1,10 +1,10 @@
 +++
 author = "Vladimir Likhanov"
 title = "Working with Git - basics"
-date = "2022-03-31"
+date = "2022-04-18"
 description = "Git"
 featured = true
-draft = true
+draft = false
 tags = [
     "Git"
 ]
@@ -14,20 +14,21 @@ categories = [
 thumbnail = "images/blog/git/git-logo.png"
 +++
 
-> This post introduces the basic operations you perform when working with Git: initializing a Git repository,
-adding a new file to it, staging and committing your changes to the repository.
+> This post introduces the basic operations you usually perform when working with Git: initializing a Git repository,
+adding a new file to it, staging the file, and committing your changes to your local repository.
 
-The diagram below demonstrates the basic Git workflow.
-
-The main steps you usually perform when working with Git are listed below. To learn more about a particular step, click on the corresponding link:
+Listed below are the main steps you usually perform when working with Git:
 
 1. You [create a new file](#creating-file) or modify an existing one in the Git working directory.
 
-2. You add the new / modified file to the Git staging area. The staging area is where you prepare your files for committing to the repository.
+2. You [add the new or modified file](#staging-file) to the Git staging area. The staging area is where you prepare your files
+for committing to the local repository.
 
-3. You commit the new / modified file to the Git local repository. By performing a commit to the local repository, you save the current state of your files.
+3. You [commit the new / modified file](#committing-file) to the Git local repository. By performing a commit to your local
+repository, you save the current state of your files.
 
-4. You push your local changes to a remote repository. It can be GitHub, GitLab, BitBucket, or another Git-specific repository.
+4. You [push your local changes](#pushing-changes) to a remote repository. For example, this can be a GitHub, GitLab, or BitBucket
+repository.
 
 ## Checking prerequisites
 
@@ -36,20 +37,22 @@ assume the following:
 
 * You've just started working on your new website.
 
-* You've decided to use Git when developing the website.
+* You've decided to use Git for tracking your website content.
 
-* You've created a new folder - **my-website** - for storing all website-related files.
+* You've created a new folder - **my-website** - that will store all website-related files.
 
 * You've installed and configured Git on your local computer. If you have not, refer to [Setting up Git](/post/git-introduction)
-to learn how you can install Git before continuing with the steps in this article.
+to learn how you can set up Git on your local machine.
 
-* If you are on a Windows computer, you use Git Bash to work with Git and perfom Git-related commands.
+* If you are on a Windows computer, you use Git Bash to work with Git and perform Git-related commands. Git Bash allows you to
+interact with Git like you would on a Linux or Mac terminal.
 
-## <a name="creating-file"></a> Creating a Git repository and adding files
+## <a name="creating-file"></a>Adding a file to the Git local repository
 
-We'll start with creating (initializing) a new Git repository on our computer. This local repository will store all files for our website.
+We'll start with creating (initializing) a new Git repository on our computer and adding a new file to it.
 
-1. Change to the **my-website** folder. This folder is known as a working directory. That means that this folder contains all files you are currently working on.
+1. Change to the **my-website** folder. This folder will be our Git working directory and contain the
+files you'll be working on.
 
         ~> cd 'C:\my-website'
 
@@ -58,74 +61,89 @@ We'll start with creating (initializing) a new Git repository on our computer. T
         ~> git init
         Initialized empty Git repository in C:/my-website/.git/
 
-Now you can create the **index.html** file and add it to your local repository.
+Now you can create your first file - **index.html** - and add it to your local repository.
 
-1. 
+1. Open your favorite text editor (e.g., [Visual Studio Code](/post/ubuntu-installing-visual-studio-code/)).
 
-![Downloading Git for Windows](/images/blog/git/git-downloading-windows-version.png)
+2. Create a new file.
 
-2. Click the **Windows** link in the **Download** section.
+3. Add the following text to it:
 
-* The **Download for Windows** page opens.
+        <!DOCTYPE html>
+        <html lang="en">
+                <head>
+                        <meta charset="UTF-8">
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                        <title>Start page</title>
+                        <link href="./resources/css/main.css" rel="stylesheet" type="text/css">
+                </head>
+                <body>
+                        <p>My start page</p>
+                </body>
+        </html>
 
-![Choosing the right Git version for Windows](/images/blog/git/git-choosing-installation-file.png)
+4. Save the file as **index.html**.
 
-3. Click one of the links to download the right version for your system.
+## <a name="staging-file"></a>Staging files
 
-4. Once the download is complete, double-click the installation file.
+First, let’s check the status of our Git project:
 
-* The installer window opens.
+        ~ git status
+        On branch main
 
-5. Follow the on-screen instructions to install Git. You can stick to the default settings
-offered by the installer.
+        No commits yet
 
-## <a name="verifying-installation"></a>Verifying the Git installation
+        Untracked files:
+        (use "git add <file>..." to include in what will be committed)
+                index.html
 
-Your Git installation on Windows comes with a tool called Git Bash. You can use this tool
-to work with Git in the command prompt.
+        nothing added to commit but untracked files present (use "git add" to track)
 
-> If you are using a Linux distribution or a MacOS, your system should already come with a
-built-in terminal where you can run Git commands. On Mac, you can click the magnifying glass
-at the top right of your desktop, type **Terminal**, select the terminal from the list of
-applications, and press Enter. On Linux, press Ctrl-Alt-T to open the terminal window.
+You can see that the **Untracked files** section contains the information about the **index.html** file.
+That means that Git sees the file, but it has not started tracking changes yet.
 
-Let's use Git Bash to verify your Git installation:
+Let's change this situation and make Git start tracking your **index.html** file. To do this, we need to add this file to the
+Git staging area:
 
-1. Click **All apps** - **Git** - **Git Bash** on the Windows **Start** menu.
+        ~ git add index.html
 
-* The Git Bash application opens.
-* You see the command prompt.
+> If you are adding several files, separate them by spaces. To add all untracked files at once, use the **--all** option
+(**git add --all**).
 
-![Opening the Git Bash application](/images/blog/git/git-bash-windows.png)
+The **git add** command produces no output. So, to make sure that the file has been successfully added to the staging area, check the
+repository status again:
 
-2. Type the following command and press Enter:
+        ~ git status
+        On branch main
 
-        ~> git --version
-        git version 2.33.0.windows.2
+        No commits yet
 
-If your output looks similar to the one above - that is, you see the version of Git, you've successfully
-installed Git on your computer and can proceed with the next step.
+        Changes to be committed:
+        (use "git rm --cached <file>..." to unstage)
+                new file:   index.html
 
-## <a name="configuring-credentials"></a>Preparing to work with Git
+You should see that Git has added our file to the staging area and that this file can now be committed to your Git repository.
 
-Before you can start working with Git, you need to configure some of its settings. Git
-requires at least your name and email address to be specified. To configure these settings,
-launch Git Basch and execute these commands:
+## <a name="committing-file"></a>Committing files
 
-* Setting your name:
+A commit is the next step in our Git workflow. The commit saves the changes from the staging area to your local repository.
 
-        ~> git config user.name "John Doe"
+When making a commit, you need to specify the commit message using the **-m** option. As a rule, the commit message contains a brief
+description of your changes.
 
-* Setting your email address:
+Now let’s make our first commit:
 
-        ~> git config user.email "john.doe@email.com"
+        ~ git commit -m “Add index.html to our website”
+        [main (root-commit) e2ffec2] Add index.html to our website
+        1 file changed, 13 insertions(+)
+        create mode 100644 index.html
 
-You can check that the settings have been successfully set with this command:
+## <a name="pushing-changes"></a>Pushing changes to a remote repository
 
-        ~> git config --list
-        ...
-        user.email=john.doe@email.com
-        user.name=John Doe
+Once you've added the **index.html** file to your local Git repository, you may wish to place this repository in a shared location,
+like GitHub, BitBucket, or GitLab. This remote repository can then serve as both a backup and a place where you can collaborate with
+others on your website.
 
-Now that you have configured your user credentials, you are ready to start using Git for
-tracking your content.
+The process of setting up a remote repository depends on the chosen platform (GitHub, BitBucket, GitLab, etc.). After configuring
+your remote repository, you can use the **git push** command to update the remote repository with your local commit.
