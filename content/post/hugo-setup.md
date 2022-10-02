@@ -1,7 +1,7 @@
 +++
 author = "Vladimir Likhanov"
 title = "Setting up Hugo"
-date = "2021-06-17"
+date = "2022-09-27"
 description = "Static site generators"
 featured = true
 tags = [
@@ -14,6 +14,8 @@ thumbnail = "images/blog/hugo-bg.png"
 +++
 
 > This post describes the procedure of setting up Hugo, one of the most popular open-source static site generators, on Ubuntu. You will learn how to install Hugo on your local machine, create a new Hugo site, store this site in a Git local repository, and finally put it up on GitHub.
+
+*UPD: 27 September, 2022*
 
 ## Installing Hugo
 
@@ -64,7 +66,7 @@ Once you've installed Hugo, you can create a new site:
 To perform the next steps, we'll need Git. Git is likely already installed on your Ubuntu machine. You can confirm this by running the following command:
 
     $ git --version
-    $ git version 2.25.1
+    git version 2.25.1
 
 If this is not the case - that is, the output does now show any Git version number - you can install it with the *apt* package manager.
 
@@ -78,7 +80,7 @@ If this is not the case - that is, the output does now show any Git version numb
 
 ## Creating a Git repository
 
-Now we need to create a local Git repository to be able to add to our Hugo site a theme in the next step:
+Now we need to create a local Git repository to be able to add a theme to our Hugo site in the next step:
 
 1. Open the terminal and go to the *docsmatter* directory.
 
@@ -118,15 +120,15 @@ The Hugo website we created before has the following structure:
 
 But none of the directories has currently any content. The easiest way to add content to your site is to download a Hugo theme and change it to meet your needs.
 
-In our example, we'll use the [Bigspring](https://themes.gohugo.io/themes/bigspring-hugo-startup-theme/) theme. You can use this theme or visit [https://themes.gohugo.io/](https://themes.gohugo.io/) and choose another one.
+In our example, we'll use the [Bigspring Light](https://github.com/gethugothemes/bigspring-light) theme. You can use this theme or visit [https://themes.gohugo.io/](https://themes.gohugo.io/) and choose another one.
 
 > **_NOTE:_**  Depending on the chosen theme, you may need to install some additional components on your system to make the theme work.
 
 1. In the terminal, make sure that your working directory is *docsmatter*.
 
-2. Run the following command to download the Bigspring theme from GitHub to the */docsmatter/themes/bigspring* directory on your local computer:
+2. Run the following command to download the Bigspring Light theme from GitHub to the */docsmatter/themes/bigspring* directory on your local computer:
 
-        $ git clone https://github.com/themefisher/bigspring-hugo-startup-theme.git themes/bigspring
+        $ git clone https://github.com/gethugothemes/bigspring-light.git themes/bigspring-light
 
 3. Change to the */docsmatter/themes/bigspring/exampleSite* directory:
 
@@ -138,8 +140,9 @@ In our example, we'll use the [Bigspring](https://themes.gohugo.io/themes/bigspr
         Start building sites …
         ...
 
-5. Open your favourite browser, enter [https://localhost:1313](https://localhost:1313), and click Enter. You should see the Bigspring example site in your browser.
+5. Open your favourite browser, enter [http://localhost:1313/bigspring-light/examplesite/](http://localhost:1313/bigspring-light/examplesite/), and click Enter. You should see the Bigspring example site in your browser.
 
 ![Hugo example website](/images/blog/hugo-example-site.png)
 
-<br />If your browser window looks like the one above, you have successfully set up Hugo on your local computer. You can now customize the downloaded theme to meet your needs and release it to the public.
+<br />If your browser window looks like the one above, you have successfully set up Hugo on your local computer. You can now customize the downloaded theme to meet
+your needs and release it to the public.
