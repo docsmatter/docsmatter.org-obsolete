@@ -1,7 +1,7 @@
 +++
 author = "Vladimir Likhanov"
 title = "Setting up pandoc on Windows"
-date = "2022-10-03"
+date = "2022-10-23"
 description = "Setting up pandoc on a Windows operating system"
 featured = true
 draft = false
