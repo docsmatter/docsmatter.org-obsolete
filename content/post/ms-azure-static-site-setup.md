@@ -11,7 +11,7 @@ tags = [
 categories = [
     "Static website"
 ]
-thumbnail = "images/blog/git/git-logo.png"
+thumbnail = "images/blog/azure/azure-logo.png"
 +++
 
 > This post describes how to configure Microsoft Azure to host your static website.
@@ -69,7 +69,7 @@ accounts. It may contain only numbers and lowercase letters (e.g., *mylocalstora
 * **Region**: Choose the appropriate region for your storage.
 * **Performance**: Leave the **Standard** option selected.
 * **Redundancy**: Let's take the cheapest **Locally-redundant storage (LRS)** option. You usually host the content
-of your static site locally or in some remote repository (e.g., in GitHub) and can quickly re-upload it Azure if something
+of your static site locally or in some remote repository (e.g., in GitHub) and can quickly re-upload it to Azure if something
 goes wrong.
 
 6. Click on the **Review** button at the bottom of the page.
